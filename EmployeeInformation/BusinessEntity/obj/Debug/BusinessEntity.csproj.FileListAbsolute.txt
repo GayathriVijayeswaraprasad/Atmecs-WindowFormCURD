@@ -1,0 +1,6 @@
+C:\Users\gayathri v\source\repos\EmployeeInformation\BusinessEntity\bin\Debug\BusinessEntity.dll
+C:\Users\gayathri v\source\repos\EmployeeInformation\BusinessEntity\bin\Debug\BusinessEntity.pdb
+C:\Users\gayathri v\source\repos\EmployeeInformation\BusinessEntity\obj\Debug\BusinessEntity.csprojAssemblyReference.cache
+C:\Users\gayathri v\source\repos\EmployeeInformation\BusinessEntity\obj\Debug\BusinessEntity.csproj.CoreCompileInputs.cache
+C:\Users\gayathri v\source\repos\EmployeeInformation\BusinessEntity\obj\Debug\BusinessEntity.dll
+C:\Users\gayathri v\source\repos\EmployeeInformation\BusinessEntity\obj\Debug\BusinessEntity.pdb
